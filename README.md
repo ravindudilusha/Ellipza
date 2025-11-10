@@ -1,2 +1,11 @@
-# Ellipza
-Saas Landing Page
+
+  # Modern Company Landing Page
+
+  This is a code bundle for Modern Company Landing Page. The original project is available at https://www.figma.com/design/d7eARamn1XtRyrWDQvH9ev/Modern-Company-Landing-Page.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
